@@ -1,0 +1,4 @@
+#Mon Nov 08 14:25:00 UTC 2021
+base.0=D\:\\Documents\\Study Jam Android\\Dessert App\\android-basics-kotlin-dessert-clicker-app-starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
